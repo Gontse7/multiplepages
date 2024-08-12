@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+h1,h2{
+    text-align: center;
+}
+a {
+    text-align: center;
+    display: block;
+    justify-content: space-around;
+}
+
+img {
+    display: block;
+    max-width: 90px;
+    margin-top: auto;
+    border: 1px;
+    border-radius:5px ;
+
+}
